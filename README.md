@@ -1,4 +1,4 @@
-# Hussain-Poster
+# Poster - Details
 
 
 ## Bibliography
