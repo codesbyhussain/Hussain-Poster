@@ -18,6 +18,6 @@
 | 11. | Temporal Data Meets LLM -- Explainable Financial Time Series Forecasting | Xinli Yu, Zheng Chen, Yuan Ling, Shujing Dong, Zongyi Liu, Yanbin Lu | [Finance](https://arxiv.org/abs/2306.11025) |
 | 12. | Modeling Time Series as Text Sequence A Frequency-vectorization Transformer for Time Series Forecasting | Junkai Li, Weizhi Ma, Yang Liu | [TS as Text](https://openreview.net/forum?id=N1cjy5iznY) |
 | 13. | TIME SERIES MODELING AT SCALE: A UNIVERSAL REPRESENTATION ACROSS TASKS AND DOMAINS  | Unknown | [](https://openreview.net/pdf?id=SZErAetdMu) |
-| 14. | TEST: Text Prototype Aligned Embedding to Activate LLM’s Ability for Time Series | | |
+| 14. | TEST: Text Prototype Aligned Embedding to Activate LLM’s Ability for Time Series | Chenxi Sun, Yaliang Li, Hongyan Li, Shenda Hong | [TEST](https://arxiv.org/abs/2308.08241) |
 | 15. | | | |
 | 16. | | | |
