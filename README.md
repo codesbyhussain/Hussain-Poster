@@ -19,5 +19,5 @@
 | 12. | Modeling Time Series as Text Sequence A Frequency-vectorization Transformer for Time Series Forecasting | Junkai Li, Weizhi Ma, Yang Liu | [TS as Text](https://openreview.net/forum?id=N1cjy5iznY) |
 | 13. | TIME SERIES MODELING AT SCALE: A UNIVERSAL REPRESENTATION ACROSS TASKS AND DOMAINS  | Unknown | [](https://openreview.net/pdf?id=SZErAetdMu) |
 | 14. | TEST: Text Prototype Aligned Embedding to Activate LLM’s Ability for Time Series | Chenxi Sun, Yaliang Li, Hongyan Li, Shenda Hong | [TEST](https://arxiv.org/abs/2308.08241) |
-| 15. | | | |
-| 16. | | | |
+| 15. | TIME-LLM: TIME SERIES FORECASTING BY REPROGRAMMING LARGE LANGUAGE MODELS | Ming Jin, Shiyu Wang, Lintao Ma, Zhixuan Chu, James Y. Zhang, Xiaoming Shi, Pin-Yu Chen, Yuxuan Liang, Yuan-Fang Li, Shirui Pan, Qingsong Wen | [Reprogramming](https://arxiv.org/abs/2310.01728) |
+| 16. | Utilizing language models for energy load forecasting | Hao Xue, Flora D. Salim | [Load Forecasting](https://arxiv.org/pdf/2310.17788.pdf) |
